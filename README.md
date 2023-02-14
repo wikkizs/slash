@@ -7,18 +7,11 @@ Ce projet a été réalisé pour le module de Système d'exploitation en troisi�
 # Récupération du projet : 
 1. Clonez le projet depuis le dépôt distant :
 
-SSH:
-```
-git clone git@gaufre.informatique.univ-paris-diderot.fr:benabdam/sy5.git
-```
 HTTP:
 ```
-git clone https://gaufre.informatique.univ-paris-diderot.fr/benabdam/sy5.git
+git clone https://github.com/wikkizs/slash.git
 ```
-2. Naviguez dans le dossier ainsi cloné :
-```
-cd sy5
-```
+
 # Compilation et exécution : 
 1. Compiler à l'aide de makefile avec la commande:
 ```
